@@ -8,3 +8,4 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [x] Writting tutorials, by tutorials
+- [ ] COBOL professional
