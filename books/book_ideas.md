@@ -9,3 +9,4 @@
 - [x] RxSwift by tutorials
 - [x] Writting tutorials, by tutorials
 - [ ] COBOL professional
+- [x] 50 Shades of Green
